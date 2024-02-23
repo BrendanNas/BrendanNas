@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrendanNas
+- 👋 Hi, I’m @BrendanNash
 - 👀 I’m interested in learning more about coding and technology
 - 🌱 I’m currently learning Django and C++
 - 💞️ I’m looking to collaborate on any projects that allow me to learn more
