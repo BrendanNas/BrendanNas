@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects that allow me to learn more
 - 📫 How to reach me: You can reach me at my email brendannnash.4.2.0@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm really into gaming and reading, I'm currently reading The Fellowship of The Ring.
+- ⚡ Fun fact: I'm really into gaming and reading, I'm currently reading Game of Thrones.
 
 <!---
 BrendanNas/BrendanNas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
